@@ -1,0 +1,62 @@
+body{
+    display: block;
+    background-color:  #05bba5;
+    }
+#menu{
+    background-color:#ec8c44;
+    width: 100%;
+}
+#zona-enbezado{
+    background-color:#ec8c44;
+    width: 100%;
+}
+
+h1{
+    font-size: 300%;
+    text-align: center;
+    color:#043747;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:#ec8c44;
+}
+.letra{
+    font-size: 15pt;
+    color: #060757;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:#ec8c44;
+    
+    
+}
+.texto-encabezado {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16pt;
+    color: black;
+   }
+#zona-imagenes {
+    width: 100%;
+    background-color: #ec8c44;
+    text-align: center;
+   }
+img{
+    width: 33%;
+}
+.texto-cuerpoimage.png {
+
+    font-size: 15pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+#zona-final {
+    width: 100%;
+    background: #8a430e;
+   }
+.texto-final{
+    font-weight: 100;
+    font-size: 16pt;
+    font-family: monospace;
+    color: #ddcdc1;
+
+}
+.imagen {
+    width: 40%;
+    border: 1px solid #1B4F72;
+    float: right;
+    }
